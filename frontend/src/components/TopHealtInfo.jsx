@@ -12,7 +12,7 @@ const TopHealtInfo = () => {
     return (
         <div className='flex flex-col items-center gap-4 my-16 text-[#262626] md:mx-10'>
             <h1 className='text-3xl font-medium'>HealtInfo</h1>
-            <p className='sm:w-1/3 text-center text-sm'>Simply browse through our extensive list of trusted HealtInfo.</p>
+            <p className='sm:w-1/2 text-center text-sm'>Ayurveda, an ancient Indian system of medicine, focuses on holistic health and well-being, using natural methods like diet, lifestyle changes, and herbal remedies to maintain balance in the body, mind, and spirit.</p>
             <div className='w-full grid grid-cols-auto gap-4 pt-5 gap-y-6 px-3 sm:px-0'>
                 {healtInfo.slice(0, 10).map((item, index) => (
                     <div

@@ -12,10 +12,10 @@ const About = () => {
       <div className='my-10 flex flex-col md:flex-row gap-12'>
         <img className='w-full md:max-w-[360px]' src={assets.about_image} alt="" />
         <div className='flex flex-col justify-center gap-6 md:w-2/4 text-sm text-gray-600'>
-          <p>Welcome to Prescripto, your trusted partner in managing your healthcare needs conveniently and efficiently. At Prescripto, we understand the challenges individuals face when it comes to scheduling doctor appointments and managing their health records.</p>
-          <p>Prescripto is committed to excellence in healthcare technology. We continuously strive to enhance our platform, integrating the latest advancements to improve user experience and deliver superior service. Whether you're booking your first appointment or managing ongoing care, Prescripto is here to support you every step of the way.</p>
-          <b className='text-gray-800'>Our Vision</b>
-          <p>Our vision at Prescripto is to create a seamless healthcare experience for every user. We aim to bridge the gap between patients and healthcare providers, making it easier for you to access the care you need, when you need it.</p>
+          <p>AYURVEDA" is made up of two words- Ayuh and Veda. Ayuh means life and Veda means knowledge or science.          </p>
+          <p>Thus "AYURVEDA' in totality means 'Science of life. It incorporates all aspects of life whether physical, psychological, spiritual or social. What is beneficial and what is harmful to life, what is happy life and what is sorrowful life; all these four questions and life span allied issues are elaborately and emphatically discussed in Ayurveda.          </p>
+          <b className='text-gray-800'>Origin of Ayurveda          </b>
+          <p>Ayurveda is considered as one of the ancient health care system. The antique vedic texts have scattered references of Ayurvedic Remedies and allied aspects of medicine and health. Atharva-veda mainly deals with extensive Ayurvedic information. That is why Ayurveda is said to be the off shoot of Atharva Veda. Ayurveda is the system of medicine that evolved in India with a rationale logical foundation and it has survived as a distinct entity from remote antiquity to the present day. The fundamentals on which the Ayurvedic system is based are essentially true for all times and do not change from are to age. These are based on human actors, on intrinsic causes. The origin of Ayurveda is attributed to Atharva Veda where mention is made several diseases with their treatments. Later, from the 6th Century BC to 7th Century AD there was systematic development of the science and it is called Samhita period, when a number of classical works were produced by several authors and during this period there is evidence of organized medical care.</p>
         </div>
       </div>
 
