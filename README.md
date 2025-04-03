@@ -1,5 +1,5 @@
 ## Deployed Links
 
-- [Admin Panel](https://ayurvedic-clinic-admin.onrender.com){:target="_blank"}
-- [Frontend](https://ayurvedic-clinic-frontend.onrender.com){:target="_blank"}
-- [Backend](https://ayurvedic-clinic-backend.onrender.com){:target="_blank"}
+- <a href="https://ayurvedic-clinic-admin.onrender.com" target="_blank">Admin Panel</a>
+- <a href="https://ayurvedic-clinic-frontend.onrender.com" target="_blank">Frontend</a>
+- <a href="https://ayurvedic-clinic-backend.onrender.com" target="_blank">Backend</a>
